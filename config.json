@@ -1,6 +1,6 @@
 
 {
-    "report_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0068/owMITfwChEQIoohdRKNmhBCAI7GvyzkUgQ81At/?a=1988&ch=0&cr=3&dr=0&lr=unwatermarked&cd=0%7C0%7C0%7C3&cv=1&br=2102&bt=1051&bti=ODszNWYuMDE6&cs=0&ds=6&ft=_RwJrBiTq8Zmo9syDQ_vjm0ZMAhLrus&mime_type=video_mp4&qs=0&rc=ZjxpZTs5ODo3ZGk8ZDc1ZEBpam1rNDs6ZjQ2bjMzNzczM0BeLjA2MjViNTUxY2NeLjNgYSNkbmZscjQwMzJgLS1kMTZzcw%3D%3D&btag=e00088000&expire=1695246086&l=20230920154110F778CD10A159C4084F14&ply_type=2&policy=2&signature=6a3af89aed4e79a49f606ead508f3c68&tk=tt_chain_token",
+    "report_url": "https://www.tiktok.com/aweme/v2/aweme/feedback/?WebIdLastTime=1692666841&aid=1988&app_language=pt-BR&app_name=tiktok_web&browser_language=pt-BR&browser_name=Mozilla&browser_online=true&browser_platform=Win32&browser_version=5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F117.0.0.0%20Safari%2F537.36&channel=tiktok_web&cookie_enabled=true&current_region=BR&device_id=7269948690637751813&device_platform=web_pc&focus_state=true&from_page=user&history_len=2&is_fullscreen=false&is_page_visible=true&lang=pt-BR&nickname=usu%C3%A1ria%20%F0%9F%92%AA%F0%9F%8F%BC&object_id=6999625579838407686&os=windows&owner_id=6999625579838407686&priority_region=&reason=91015&referer=&region=BR&report_type=user&screen_height=967&screen_width=1014&secUid=MS4wLjABAAAAsH8LhYKmQDxaQqUoU4NqeIiutaQJcGa-jvETDgpDC_TqY6kWJPalwnKPi1gt-s-N&target=6999625579838407686&tz_name=America%2FSao_Paulo&webcast_language=pt-BR",
     "proxy_scraper": "n",
     "threads": 200,
 
@@ -13,7 +13,7 @@
         "Bullying": "n",
         "Suicide Or Self-Harm": "n",
         "Dangerous Content": "n",
-        "Sexual Content": "n",
+        "Sexual Content": "s",
         "Porn": "n",
         "Drugs": "n",
         "Firearms Or Weapons": "n",
